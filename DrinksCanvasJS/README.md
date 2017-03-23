@@ -1,7 +1,7 @@
 # Drinks CanvasJS
 
 ## Descripition 
-This application informs a user about alcohol such as the use of alcohol based on age and how alcohol differs between genders. The information is displayed by using a bar graph and clickable icons. The following coding languages were used to build this application CanvasJS, jQuery, CSS, and HTML. In additon, this application is using a foundation framework. To view this application go to [DrinksCanvasJS](https://kcossifos.github.io/Portfolio/DrinksCanvasJS/index.html)
+This application informs a user about alcohol such as the use of alcohol based on age and how alcohol differs between genders. The information is displayed by using a bar graph and clickable icons. The following coding languages were used to build this application CanvasJS, jQuery, CSS, and HTML. In additon, this application is using a foundation framework. To view this application go to [DrinksCanvasJS](https://kcossifos.github.io/Javascript/DrinksCanvasJS/index.html)
 
 ## CanvasJS
 CanvasJS is a powerful and light weight Charting Library built on top of HTML5 & JavaScript, that includes numerous amount of features. For more information and to download CanvasJS click [here](http://canvasjs.com)
