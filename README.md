@@ -1,4 +1,4 @@
-# Portfolio
+# Javascript Projects
 
 # About  
 This github repo is a representation of work that I have completed throughout my time at Full Sail University while studying Web Design and Development. Throughout this repo you will see the projects that I have done using Javascript, HTML and CSS. Each of these projects were completed within two days.
